@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  justify-content: flex-start;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* .list {
+  border: 1px solid;
+} */
+.comparison {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
